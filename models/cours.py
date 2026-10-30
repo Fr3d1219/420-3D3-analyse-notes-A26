@@ -1,5 +1,5 @@
 from models.session import Session
-
+from models.composant import Composant
 
 class Cours:
     def __init__(self, nom: str):
